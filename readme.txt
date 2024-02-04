@@ -4,4 +4,4 @@ cd taskmanager
 python manage.py runserver
 
 this code will open the web application in your browser
-
+https://ibb.co/5Mk6Nd7
